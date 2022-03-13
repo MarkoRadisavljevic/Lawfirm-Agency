@@ -357,5 +357,97 @@ body {
     font-size: 14px;
     padding: 0px 25px;
     font-weight: 600;
-
+}
+.inputi_josnesto {
+    height: 920px;
+    width: 1297px;
+    background-color: #262626;
+}
+.input_jonesto_padding {
+    width: 1117px;
+    height: 740px;
+    padding: 90px;
+}
+.drop_message {
+    float: left;
+    width: 450px;
+    height: 640px;
+    background-color: white;
+    padding: 50px;
+}
+.our_performance {
+    float: right;
+    width: 450px;
+    height: 640px;
+    background-color: white;
+    padding: 50px;
+}
+.drop_message h3 {
+    color: #c18e3c;
+    font-size: 13px;
+    font-weight: 900;
+    margin: 0px;
+    margin-bottom: 5px;
+}
+.drop_message h2 {
+    font-size: 24px;
+    margin: 0px;
+    margin-bottom: 26px;
+    font-weight: 500;
+}
+.full_name {
+    padding: 20px 10px;
+    width: 190px;
+    background-color: beige;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+label {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    color: #c18e3c;
+}
+input {
+    padding: 0px;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: gray;
+    letter-spacing: 0.4px;
+    background-color: beige;
+}
+#full_name1 {
+    margin-right: 20px;
+}
+.select_subject {
+    padding: 20px 10px;
+    background-color: beige;
+    margin-bottom: 20px;
+    width: 425px;
+    height: 50px;
+}
+.select_subject label {
+    display: block;
+}
+.message {
+    height: 200px;
+    width: 425px;
+    padding: 20px 10px;
+    background-color: beige;
+}
+.message label {
+    display: block;
+}
+.message input {
+    width: 400px;
+    padding-bottom: 150px;
+}
+.drop_message button {
+    color: white;
+    background-color: #c18e3c;
+    border-radius: 5px;
+    border: solid  1px #c18e3c;
+    margin-top: 30px;
+    padding: 20px;
 }
