@@ -377,10 +377,9 @@ body {
 }
 .our_performance {
     float: right;
-    width: 450px;
-    height: 640px;
-    background-color: white;
-    padding: 50px;
+    width: 510px;
+    height: 720px;
+    padding: 10px 20px;
 }
 .drop_message h3 {
     color: #c18e3c;
@@ -430,6 +429,9 @@ input {
 .select_subject label {
     display: block;
 }
+.select_subject input {
+    width: 425px;
+}
 .message {
     height: 200px;
     width: 425px;
@@ -450,4 +452,50 @@ input {
     border: solid  1px #c18e3c;
     margin-top: 30px;
     padding: 20px;
+}
+.our_performance h3 {
+    color: #c18e3c;
+    font-weight: 600;
+    font-size: 13px;
+    margin: 0px;
+    margin-bottom: 8px;
+}
+.our_performance h1 {
+    margin: 0px;
+    margin-bottom: 12px;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Cormorant Garamond', serif;
+}
+.our_performance p {
+    color: gray;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.vage {
+    height: 130px;
+    margin-bottom: 20px;
+}
+.vage i {
+    font-size: 40px;
+    padding: 30px 25px;
+    border-radius: 50%;
+    margin-right: 10px;
+    background-color: #2c2c2c;
+    color: #c18e3c;
+    display: inline-block;
+}
+.vage span {
+    font-size: 28px;
+    font-family: 'Cormorant Garamond', serif;
+    position: relative;
+    bottom: 45px;
+    color: white;
+}
+.vage p {
+    position: relative;
+    bottom: 80px;
+    width: 70%;
+    left: 120px;
 }
