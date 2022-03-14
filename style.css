@@ -499,3 +499,32 @@ input {
     width: 70%;
     left: 120px;
 }
+.cases {
+    height: 550px;
+    width: 1297px;
+    padding-top:100px;
+    text-align: center;
+}
+.cases h4 {
+    color: #c18e3c;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.cases h2 {
+    font-size: 50px;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 900;
+    margin: 0px;
+    margin-bottom: 60px;
+}
+.sive_slike {
+    height: 350px;
+    width: 1249px;
+    padding: 0px 24px;
+    margin-bottom: 30px;
+}
+.sive_slike img {
+    height: 350px;
+    width: 294px;
+    padding: 0px 7px;
+}
