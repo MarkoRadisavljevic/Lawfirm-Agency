@@ -528,3 +528,102 @@ input {
     width: 294px;
     padding: 0px 7px;
 }
+.overlay {
+    background-color: #c18e3c;
+    width: 797px;
+    height: 140px;
+    padding: 40px 250px;
+}
+.overlay_text{
+    display: inline-block;
+    width: 500px;
+}
+.overlay_text h2 {
+    font-size: 40px;
+    font-family: 'Cormorant Garamond', serif;
+    color: white;
+    margin: 0px;
+    font-weight: 900;
+}
+.overlay_text p {
+    font-size: 15px;
+    color: white;
+}
+.overlay button {
+    padding: 20px;
+    color: white;
+    border: solid 1 px #191919;
+    background-color: #191919;
+    border-style:none ;
+    position: relative;
+    bottom: 40px;
+    right: 20px;
+}
+.testimonial {
+    width: 100%;
+    height: 450px;
+    padding: 105px 0px;
+    text-align: center;background-color: rgb(247, 245, 241);
+}
+.testimonial span {
+    color: #c18e3c;
+    font-weight: 900;
+    font-size: 13px;
+}
+.testimonial h6 {
+    font-size: 55px;
+    font-family: 'Cormorant Garamond', serif;
+    margin: 0px;
+    font-weight: 900;
+    margin-top: 15px;
+}
+.marketing_manager {
+    height: 212px;
+    width: 290px;
+    background-color: white;
+    padding: 20px;
+    display: inline-block;
+    margin: 0px 20px;
+    margin-top: 70px;
+    text-align: start;
+}
+.marketing_manager i {
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 50%;
+    position: relative;
+    color: white;
+    background-color: #c18e3c;
+    bottom: 43px;
+}
+.linija {
+    padding-left: 20px;
+    border-left: 2px solid #c18e3c;
+    position: relative;
+    bottom: 30px;
+}
+.linija span {
+    color: #262626;
+    font-size: 16px;
+}
+.marketing_manager img {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    border-radius: 50%;
+    position: relative;
+    bottom: 20px;
+}
+.marketing_manager h4 {
+    font-size: 20px;
+    margin: 0px;
+}
+.nzm {
+    color: #c18e3c;
+    font-size: 13px;
+}
+.text_do_slike {
+    position: relative;
+    bottom: 100px;
+    left: 100px;
+}
