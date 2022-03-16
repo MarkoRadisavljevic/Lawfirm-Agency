@@ -106,7 +106,7 @@ body {
     font-weight: 600;
 }
 .one_slike {
-    background-image: url("./prva_slika_kandidat.jpg");
+    background-image: url("./images/prva_slika_kandidat.jpg");
     background-size: 1297px 750px;
     width: 1297px;
     height: 755px;
@@ -626,4 +626,74 @@ input {
     position: relative;
     bottom: 100px;
     left: 100px;
+}
+.blog span {
+    color: #c18e3c;
+    font-weight: 900;
+    font-size: 13px;
+}
+.blog {
+    height: 750px;
+    width: 1297px;
+    padding: 105px 0px;
+    text-align: center;
+}
+.blog h6 {
+    font-size: 55px;
+    font-family: 'Cormorant Garamond', serif;
+    margin: 0px;
+    font-weight: 900;
+    margin-top: 15px;
+}
+.blog_kartice {
+    width: 355px;
+    height: 558px;
+    background-color: rgb(247, 247, 247);
+    display: inline-block;
+    margin-top: 50px;
+    text-align: start;
+}
+.blog_kartice img {
+    height: 300px;
+    width: 355px;
+}
+.spanovi {
+    padding: 5px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #c18e3c;
+    width: 80px;
+    letter-spacing: 3px;
+    position: relative;
+    bottom: 110px;
+    left: 10px;
+}
+#prvi_span {
+    font-weight: 900;
+    font-size: 27px;
+    display: block;
+    height: 30px;
+}
+#drugi_span {
+    font-size: 16px;
+    display: block;
+    height: 20px;
+}
+#treci_span {
+    font-size: 12px;
+    display: block;
+    height: 30px;
+}
+.blog_kartice_txt {
+    padding: 30px;
+    position: relative;
+    bottom: 120px;
+}
+.blog_kartice_txt h3 {
+    font-size: 25px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.blog_kartice_txt p {
+    color:gray;
+    font-size: 16px;
 }
