@@ -713,7 +713,7 @@ input {
 }
 .advicer a {
     padding: 10px;
-    font-size:15px ;
+    font-size:13px ;
     display:inline-block;
     text-decoration: none;
     font-weight: 900;
@@ -725,4 +725,19 @@ input {
 #a_two {
     color: black;
     background-color: white;
+}
+.futer {
+    background-color: #191919;
+    width: 94%;
+    height: 520px;
+    padding: 0px 3%;
+    padding-top: 105px;
+}
+.prvi_futer {
+    float: left;
+    width: 300px;
+}
+.prvi_futer p {
+    color: gray;
+    font-size: 14px;
 }
