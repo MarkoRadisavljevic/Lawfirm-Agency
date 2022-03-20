@@ -735,9 +735,18 @@ input {
 }
 .prvi_futer {
     float: left;
-    width: 300px;
+    width: 260px;
 }
 .prvi_futer p {
+    margin-top: 50px;
     color: gray;
-    font-size: 14px;
+    font-size: 15px;
+}
+.desni_futer_i i {
+    color: white;
+    font-size:13px ;
+    padding: 15px;
+    border-radius: 50%;
+    background-color: #c18e3c;
+    display: inline-block;
 }
