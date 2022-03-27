@@ -728,7 +728,7 @@ input {
 }
 .futer {
     background-color: #191919;  
-    height: 520px;
+    height: 400px;
     padding: 0px 7%;
     padding-top: 105px;
     display: flex;
@@ -821,4 +821,52 @@ input {
 }
 .options_futer  a:hover {
     color: #c18e3c;
+}
+.cetvrti_futer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: baseline;
+    width: 230px;
+    margin-left: 30px;
+    position: relative;
+    bottom: 95px;
+}
+.cetvrti_prvi {
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+}
+.cetvrti_futer h1 {
+    font-size: 20px;
+    color: white;
+    margin-bottom: 43px;
+}
+.cetvrti_prvi i {
+    font-size: 15px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    color: #c18e3c;
+}
+.cetvrti_prvi span {
+    font-size: 14px;
+    color: gray;
+}
+.copy_right {
+    height: 120px;
+    width: 100%;
+    background-color: rgb(5, 5, 5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    color: gray;
+}
+.idk {
+    color: #c18e3c;
+}
+.copy_right i {
+    margin: 0px 3px;
+    font-size: 15px;
 }
