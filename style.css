@@ -524,6 +524,7 @@ input {
     margin-bottom: 30px;
 }
 .sive_slike img {
+    background-size: cover;
     height: 350px;
     width: 294px;
     padding: 0px 7px;
